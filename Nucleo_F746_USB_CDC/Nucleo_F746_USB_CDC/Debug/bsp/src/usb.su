@@ -1,0 +1,9 @@
+C:/workspaces/workspace/Nucleo_F746_USB_CDC/cmsis/core/core_cm7.h:1896:22:__NVIC_EnableIRQ	16	static
+C:/workspaces/workspace/Nucleo_F746_USB_CDC/cmsis/core/core_cm7.h:2024:22:__NVIC_SetPriority	16	static
+../bsp/src/usb.c:292:6:BSP_USB_Send	24	static
+../bsp/src/usb.c:324:6:BSP_USB_Core_Init	16	static
+../bsp/src/usb.c:529:6:OTG_FS_IRQHandler	24	static
+../bsp/src/usb.c:897:13:USB_Reset_Event_Handler	16	static
+../bsp/src/usb.c:935:13:USB_Setup_Packet_Handler	72	static
+../bsp/src/usb.c:1361:13:USB_FIFO_Read	32	static
+../bsp/src/usb.c:1387:13:USB_FIFO_Write	32	static

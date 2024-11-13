@@ -1,0 +1,2 @@
+../bsp/src/delay.c:14:6:delay_ms	2
+../bsp/src/delay.c:20:6:delay_us	2
